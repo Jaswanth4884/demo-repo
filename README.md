@@ -1,6 +1,6 @@
 # demo-repo
 Demo Respository
 <br>
-Author - Jashu
+Author - Jashu (Apps)
 
 
